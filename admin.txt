@@ -1,2 +1,0 @@
-User_name : ll_admin
-Password : llapp2021
