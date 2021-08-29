@@ -7,4 +7,4 @@ Also this small django project is very basic and can be used to learn django, ho
 ### This project is live on heroku, so if you want to check out the complete project, the link is given below :
 https://learning-log-mln.herokuapp.com
 
-#### PEACE
+##### PEACE!
